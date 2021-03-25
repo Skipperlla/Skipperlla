@@ -4,7 +4,7 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Skipperlla-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Skipperlla)](https://twitter.com/Skipperlla) [![Linkedin Badge](https://img.shields.io/badge/-Ömer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6meresmer/) [![Mail Badge](https://img.shields.io/badge/-@Skipperlla-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Skipperlla) [![Mail Badge](https://img.shields.io/badge/-Skipperlla-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:https://www.linkedin.com/in/%C3%B6meresmer/) 
+[![Twitter Badge](https://img.shields.io/badge/-@Skipperlla-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Skipperlla)](https://twitter.com/Skipperlla) [![Linkedin Badge](https://img.shields.io/badge/-Ömer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6meresmer/) [![Mail Badge](https://img.shields.io/badge/-@Skipperlla-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Skipperlla) [![Mail Badge](https://img.shields.io/badge/-Skipperlla-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:iskipperlla.437@gmail.com) 
 
 #### Tech Stack
 
