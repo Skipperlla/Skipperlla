@@ -5,9 +5,9 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 :mailbox: Reach me out!
 
 <a href="https://twitter.com/Skipperlla"><img src="https://img.shields.io/badge/-@Skipperlla-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Skipperlla"/></a>
-<a href="https://twitter.com/Skipperlla"><img src="https://img.shields.io/badge/-Ömer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/Skipperlla"><img src="https://img.shields.io/badge/-@Skipperlla-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/%C3%B6meresmer/"><img src="https://img.shields.io/badge/-Ömer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/skipperlla/"><img src="https://img.shields.io/badge/-@Skipperlla-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white"/></a>
+<a href="mailto:iskipperlla.437@gmail.com"><img src="https://img.shields.io/badge/-Skipperlla-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/></a>
 #### Tech Stack
 
 <!-- TODO: Make technologies links takes you to repositories -->
