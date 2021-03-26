@@ -39,6 +39,6 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 <a href="mailto:oesmer437@gmail.com"><img src="https://img.shields.io/badge/-oesmer437@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/></a>&nbsp;
 
 
-### <img src="spotify.svg" width="24px" height="24px">   &nbsp;Spotify Activity
+### <img style="background: #1ED760;border-radius: 120px;" src="spotify.svg" width="24px" height="24px" >   &nbsp;Spotify Activity
 
 [![Spotify](https://spotify-now-playing-skipperlla.vercel.app/api/spotify-playing)](https://open.spotify.com/user/againstalll)
