@@ -37,3 +37,8 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 <a href="https://www.linkedin.com/in/%C3%B6meresmer/"><img src="https://img.shields.io/badge/-Ömer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://www.instagram.com/skipperlla/"><img src="https://img.shields.io/badge/-@Skipperlla-e95950?style=flat&labelColor=e95950&logo=instagram&logoColor=white"/></a>&nbsp;
 <a href="mailto:oesmer437@gmail.com"><img src="https://img.shields.io/badge/-oesmer437@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/></a>&nbsp;
+
+
+### <img src="spotify.svg">   &nbsp;Spotify Activity
+
+[![Spotify](https://spotify-now-playing-skipperlla.vercel.app/api/spotify-playing)](https://open.spotify.com/user/againstalll)
