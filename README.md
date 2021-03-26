@@ -24,7 +24,7 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-072f5f?style=flat&logo=bootstrap)&nbsp;
 ![UIkit](https://img.shields.io/badge/-UIkit-072f5f?style=flat&logo=uikit)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/-Kali-072f5f?style=flat&logo=kali-linux)&nbsp;
-### ⚙️ &nbsp;GitHub Analytics
+### 🛠 &nbsp;GitHub Analytics
 
 <p>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Skipperlla&show_icons=true&theme=radical"/>
