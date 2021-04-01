@@ -33,10 +33,10 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 
 ### 📫  &nbsp;Reach me out
 
-<a href="https://twitter.com/Skipperlla"><img src="https://img.shields.io/badge/-@Skipperlla-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Skipperlla"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/%C3%B6meresmer/"><img src="https://img.shields.io/badge/-Ömer Esmer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://www.instagram.com/skipperlla/"><img src="https://img.shields.io/badge/-@Skipperlla-e95950?style=flat&labelColor=e95950&logo=instagram&logoColor=white"/></a>&nbsp;
-<a href="mailto:oesmer437@gmail.com"><img src="https://img.shields.io/badge/-oesmer437@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://twitter.com/Skipperlla" target="_blank"><img src="https://img.shields.io/badge/-@Skipperlla-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Skipperlla"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/%C3%B6meresmer/" target="_blank"><img src="https://img.shields.io/badge/-Ömer Esmer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/skipperlla/" target="_blank"><img src="https://img.shields.io/badge/-@Skipperlla-e95950?style=flat&labelColor=e95950&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href="mailto:oesmer437@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-oesmer437@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/></a>&nbsp;
 
 
 ### :musical_note: &nbsp;Spotify Activity
