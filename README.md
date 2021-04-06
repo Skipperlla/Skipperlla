@@ -28,7 +28,7 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 
 <p>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Skipperlla&show_icons=true&theme=radical"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skipperlla&layout=compact&langs_count=8&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skipperlla&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ### 📫  &nbsp;Reach me out
