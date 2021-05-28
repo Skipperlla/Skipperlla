@@ -8,18 +8,13 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-072f5f?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-072f5f?style=flat&logo=React)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-072f5f?style=flat&logo=Vue.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-072f5f?style=flat&logo=Node.js&logoColor=3C873A)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-072f5f?style=flat&logo=express)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-072f5f?style=flat&logo=TypeScript&logoColor=007acc)&nbsp;
 ![Graphql](https://img.shields.io/badge/-Graphql-072f5f?style=flat&logo=graphql&logoColor=e535ab)&nbsp;
-![Python](https://img.shields.io/badge/-Python-072f5f?style=flat&logo=python)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-072f5f?style=flat&logo=opencv&logoColor=00ff01)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-072f5f?style=flat&logo=Flask)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDB-072f5f?style=flat&logo=mongodb)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-072f5f?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-072f5f?style=flat&logo=css3&logoColor=2965f1)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-072f5f?style=flat&logo=sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-072f5f?style=flat&logo=bootstrap)&nbsp;
 ![UIkit](https://img.shields.io/badge/-UIkit-072f5f?style=flat&logo=uikit)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/-Kali-072f5f?style=flat&logo=kali-linux)&nbsp;
