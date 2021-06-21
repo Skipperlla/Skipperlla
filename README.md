@@ -35,4 +35,4 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 
 ### :musical_note: &nbsp;Spotify Activity
 
-[![Spotify](https://spotify-now-playing-skipperlla.vercel.app/api/spotify-playing)](https://open.spotify.com/user/againstalll)
+[![Spotify](https://spotify-current-playing-iota.vercel.app/api/spotify)](https://open.spotify.com/user/againstalll)
