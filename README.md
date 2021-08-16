@@ -18,7 +18,7 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-072f5f?style=flat&logo=bootstrap)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-072f5f?style=flat&logo=tailwindcss)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/-Kali-072f5f?style=flat&logo=kali-linux)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-072f5f?style=flat&logo=Linux)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-072f5f?style=flat&logo=Linux)&nbsp;
 ### 🛠 &nbsp;GitHub Analytics
 
 <p>
