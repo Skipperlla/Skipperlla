@@ -2,6 +2,14 @@
 
 I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstanding projects 
 
+## 👨🏼‍💻 I'm Currently Learning
+- Docker 🐳
+- AWS 
+- Redis
+- Grafana
+- RabbitMQ
+- ZeroMQ
+
 #### Tech Stack
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -35,6 +43,6 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 <a href="mailto:oesmer437@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-oesmer437@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/></a>&nbsp;
 
 
-### :musical_note: &nbsp;Spotify Activity
+### 🎵  &nbsp;Spotify Activity
 
 [![Spotify](https://spotify-current-playing-iota.vercel.app/api/spotify)](https://open.spotify.com/user/againstalll)
