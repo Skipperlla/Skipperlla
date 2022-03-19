@@ -17,8 +17,8 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 ![HTML](https://img.shields.io/badge/-HTML-072f5f?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-072f5f?style=flat&logo=css3&logoColor=2965f1)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-072f5f?style=flat&logo=bootstrap)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-tailwindcss-072f5f?style=flat&logo=TailwindCSS)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-072f5f?style=flat&logo=docker)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-072f5f?style=flat&logo=TailwindCSS)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-072f5f?style=flat&logo=docker)&nbsp;
 ### 🛠 &nbsp;GitHub Analytics
 
 <p>
