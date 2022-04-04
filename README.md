@@ -2,13 +2,6 @@
 
 I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstanding projects 
 
-## 👨🏼‍💻 I'm Currently Learning
-- Docker 🐳 
-- Redis
-- Grafana
-- RabbitMQ
-- ZeroMQ
-
 #### Tech Stack
 
 <!-- TODO: Make technologies links takes you to repositories -->
