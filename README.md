@@ -3,8 +3,7 @@
 I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstanding projects 
 
 ## 👨🏼‍💻 I'm Currently Learning
-- Docker 🐳
-- AWS 
+- Docker 🐳 
 - Redis
 - Grafana
 - RabbitMQ
