@@ -37,4 +37,4 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 
 ### 🎵  &nbsp;Spotify Activity
 
-[![Spotify](novatorem-seven-blue.vercel.app/api/spotify)](https://open.spotify.com/user/againstalll)
+[![Spotify](https://novatorem-seven-blue.vercel.app/api/spotify)](https://open.spotify.com/user/againstalll)
