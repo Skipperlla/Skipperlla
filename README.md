@@ -20,6 +20,9 @@ I'm Ömer Esmer a Full Stack Web Developer.I Spend most of time coding outstandi
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-072f5f?style=flat&logo=TailwindCSS)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-072f5f?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-072f5f?style=flat&logo=git)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-072f5f?style=flat&logo=prisma)
+
+
 ### 🛠 &nbsp;GitHub Analytics
 
 <p>
