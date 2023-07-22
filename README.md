@@ -42,3 +42,5 @@ I'm Ömer Esmer a React Native Developer.I Spend most of time coding outstanding
 ### 🎵  &nbsp;Spotify Activity
 
 [![Spotify](https://novatorem-seven-blue.vercel.app/api/spotify)](https://open.spotify.com/user/againstalll)
+
+[![wakatime](https://wakatime.com/badge/user/86548273-145f-436b-9aa2-b89142a55b7c.svg)](https://wakatime.com/@86548273-145f-436b-9aa2-b89142a55b7c)
