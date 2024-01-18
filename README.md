@@ -31,18 +31,4 @@ I'm Ömer Esmer a React Native Developer.I Spend most of time coding outstanding
 </p>
 -->
 
-### 📫  &nbsp;Reach me out
 
-<a href="https://twitter.com/Skipperlla" target="_blank"><img src="https://img.shields.io/badge/-@Skipperlla-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Skipperlla"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/%C3%B6meresmer/" target="_blank"><img src="https://img.shields.io/badge/-Ömer Esmer-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://www.instagram.com/skipperlla/" target="_blank"><img src="https://img.shields.io/badge/-@Skipperlla-e95950?style=flat&labelColor=e95950&logo=instagram&logoColor=white"/></a>&nbsp;
-<a href="mailto:oesmer437@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-oesmer437@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white"/></a>&nbsp;
-
-<!--
-### 🎵  &nbsp;Spotify Activity
-
-[![Spotify](https://novatorem-seven-blue.vercel.app/api/spotify)](https://open.spotify.com/user/againstalll)
-
--->
-
-[![wakatime](https://wakatime.com/badge/user/86548273-145f-436b-9aa2-b89142a55b7c.svg)](https://wakatime.com/@86548273-145f-436b-9aa2-b89142a55b7c)
